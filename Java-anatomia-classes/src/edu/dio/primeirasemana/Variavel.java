@@ -1,3 +1,4 @@
+package edu.dio.primeirasemana;
 public class Variavel {
     public static void main(String[] args) {
         int anoFabricacao = 2021; // Toda variável é declarada em minúsculas, caso a palavra seja composta a primeira letra da segunda palavra deve estar em maiúscula, respeitando assim a camelCase.

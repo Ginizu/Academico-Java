@@ -1,3 +1,4 @@
+package edu.dio.segundasemana;
 public class Metodos {
         public static void main(String[] args) {
             //Toda variável segue a seguinte estrutura:

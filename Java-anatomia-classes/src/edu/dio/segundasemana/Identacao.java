@@ -1,3 +1,4 @@
+package edu.dio.segundasemana;
 public class Identacao {
     public static void main(String[] args) {
         int media = 6;
