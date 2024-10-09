@@ -1,6 +1,7 @@
+import java.util.Date;
+
 public class App {
     public static void main(String[] args) throws Exception {
-        System.out.println("Hello, World!");
 
         //Existem key words na linguagem, ou seja, palavras que não podem ser usadas como objeto 
         //São chamados também de tipos primitivos: int, byte, short, long, float, double, boolean e char
@@ -12,6 +13,13 @@ public class App {
         Float pi = 3.14F; 
 
         final double VALOR_DE_PI = 3.14;
+
+        
+       String nome = "Fumaça";
+       double peso = 68.40;
+       char genero = 'M';
+       boolean doadorOrgao = false;
+       Date dataNascimento = new Date();
 
         System.out.println(VALOR_DE_PI);
 
