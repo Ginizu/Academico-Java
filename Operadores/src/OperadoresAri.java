@@ -34,5 +34,19 @@ public class OperadoresAri {
 
         System.out.println(concatenacao);
 
+        //Operadores unários: + Positivo - Negativo ++ Encremento  -- Decremento
+        // Definindo um número negativo
+
+        int numero = 5;
+
+        // variavel número recebe valor 5 para transformar em negativo vamos os seguinte
+
+        numero = numero * -1;
+
+        // Desse modo vamos transformar em negativo
+
+        System.out.println(numero);
+
+
     }
 }
